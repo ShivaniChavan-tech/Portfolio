@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+	<defs>
+		<image width="775" height="817" id="img1" href="data:image/png;https://media.istockphoto.com/id/1241710244/vector/working-at-home-vector-flat-style-illustration-online-career-coworking-space-illustration.jpg?s=612x612&w=0&k=20&c=U34U9zhLBWDEbfPmgmlnFJiP-EuWu7MEUCxUls_BnKU="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Page 1" href="#img1" x="108" y="85" />
+</svg>
